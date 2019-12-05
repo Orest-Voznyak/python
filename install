@@ -26,4 +26,6 @@ fi
 exec $SHELL
 
 
+===========команди==
 
+pyenv install --list - список доступних команд
