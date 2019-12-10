@@ -16,16 +16,10 @@ sudo pip uninstall virtualenv - видалити
 which virtualenv - провірка версії
 
 ==========18. Як встановити та видалити бібліотеки=========
-print( help('modules')) - список модулів
-print (help('modules') )
+ pip freeze- список модулів
+
 python -m pip install SomePackage
 python3.4 -m pip install SomePackage
-
-
-
-
-
-
 
 
 
