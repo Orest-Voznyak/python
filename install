@@ -15,6 +15,7 @@ sudo pip uninstall virtualenv - видалити
 
 which virtualenv - провірка версії
 
+print( help('modules'))
 
 
 
