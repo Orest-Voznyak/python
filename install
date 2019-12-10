@@ -10,9 +10,13 @@ sudo apt-get install python3-pip
 
 sudo apt install build-essential libssl-dev libffi-dev python3-dev
 
-sudo pip3 install virtualenv  - встановити (заходим в деректорію в котрій ми хочемо встановити)
-sudo pip uninstall virtualenv - видалити
 
+sudo pip3 install virtualenv  - встановити (заходим в деректорію в котрій ми хочемо встановити)
+virtualenv (імя virtualenv)- називаємо
+source (імя virtualenv)/bin/activate - активуємо
+
+
+sudo pip uninstall virtualenv - видалити
 which virtualenv - провірка версії
 
 ==========18. Як встановити та видалити бібліотеки=========
