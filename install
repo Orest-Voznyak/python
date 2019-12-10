@@ -24,6 +24,7 @@ which virtualenv - провірка версії
  pip freeze - список модулів
 python setup.py install -встановлення модулів
 pip uninstall - видалення модулів
+https://linuxize.com/post/how-to-install-pip-on-ubuntu-18.04/
 
 
 
@@ -65,3 +66,4 @@ exec $SHELL
 ===========команди==
 
 pyenv install --list - список доступних команд
+
