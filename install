@@ -6,6 +6,7 @@ python3 -V
 sudo apt-get install python3-pip
 (pip , інструмент, який встановлюватиме 
 та керувати бібліотеками чи модулями, які слід використовувати у ваших проектах)
+~/.bash_profile - перезапустити оболочку
 
 sudo apt install build-essential libssl-dev libffi-dev python3-dev
 
