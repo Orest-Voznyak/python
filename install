@@ -1,4 +1,36 @@
-https://github.com/pyenv/pyenv
+============How to install and delete virtualenv=============
+sudo apt update
+sudo apt -y upgrade
+python3 -V
+
+sudo apt-get install python3-pip
+(pip , інструмент, який встановлюватиме 
+та керувати бібліотеками чи модулями, які слід використовувати у ваших проектах)
+
+sudo apt install build-essential libssl-dev libffi-dev python3-dev
+
+sudo pip3 install virtualenv  - встановити
+sudo pip uninstall virtualenv - видалити
+
+which virtualenv - провірка версії
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=================https://github.com/pyenv/pyenv================
 
 1) Встановити git
 sudo apt-get install git
