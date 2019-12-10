@@ -21,17 +21,10 @@ sudo pip uninstall virtualenv - видалити
 which virtualenv - провірка версії
 
 ==========18. Як встановити та видалити бібліотеки=========
- pip freeze - список модулів
-python setup.py install -встановлення модулів
+pip freeze - список модулів
+pip3 install scrapy -встановлення модулів
 pip uninstall - видалення модулів
 https://linuxize.com/post/how-to-install-pip-on-ubuntu-18.04/
-
-
-
-
-
-
-
 
 
 
