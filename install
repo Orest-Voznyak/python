@@ -17,7 +17,7 @@ which virtualenv - провірка версії
 
 ==========18. Як встановити та видалити бібліотеки=========
  pip freeze - список модулів
-python -m pip install SomePackage -встановлення модулів
+python setup.py install SomePackage -встановлення модулів
 pip uninstall - видалення модулів
 
 
