@@ -1,4 +1,4 @@
-============How to install and delete virtualenv=============
+============16.How to install and delete virtualenv=============
 sudo apt update
 sudo apt -y upgrade
 python3 -V
@@ -20,7 +20,7 @@ deactivate - деактивовуємо
 sudo pip uninstall virtualenv - видалити
 which virtualenv - провірка версії
 
-==========18. Як встановити та видалити бібліотеки=========
+============18. Як встановити та видалити бібліотеки=========
 pip3 freeze - список модулів
 pip3 install scrapy -встановлення модулів
 pip3 uninstall (name)- видалення модулів
