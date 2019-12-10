@@ -18,6 +18,7 @@ which virtualenv - провірка версії
 ==========18. Як встановити та видалити бібліотеки=========
 print( help('modules')) - список модулів
 python -m pip install SomePackage
+python3.4 -m pip install SomePackage
 
 
 
